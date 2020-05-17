@@ -1,5 +1,5 @@
-# ff
-  ff
+# Readme Generator
+  A professional readme generator \
 
   ## Badges 
   [![License: Apache](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -14,20 +14,20 @@
   * [Questions](#questions)
 
   ## Installation
-  ff
+  npm init-->npm install --> npm install inquirer
   
   ## Usage
-  Run the following command at the root of your project and then answer the prompted questions: ff
+  Run the following command at the root of your project and then answer the prompted questions: From the node.js command line
 
   ## Contributions
-  [GitHub: ff](https://github.com/ff)
+  [GitHub: none](https://github.com/none)
   
   ## Test
-  ff
+  no there is not
 
   ## Licensenod
   This application is Apache licensed.
 
   ## Questions
-  Have any questions? Email me at ff
+  Have any questions? Email me at roxanna.vaught@gmail.com
 

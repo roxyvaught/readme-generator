@@ -28,7 +28,7 @@ function generateMarkdown(info) {
   ${info.install}
   
   ## Usage
-  Run the following command at the root of your project and then answer the prompted questions: ${info.usage}
+  Run the following command in the command line and answer the questions ${info.usage}
 
   ## Contributions
   [GitHub: ${info.contributing}](https://github.com/${info.contributing})
@@ -36,7 +36,7 @@ function generateMarkdown(info) {
   ## Test
   ${info.tests}
 
-  ## Licensenod
+  ## License
   This application is ${info.license} licensed.
 
   ## Questions
