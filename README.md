@@ -1,8 +1,8 @@
-# Readme Generator
-  A professional readme generator \
+# ReadMe Generator
+  Easily generate a professional readme for your projects
 
   ## Badges 
-  [![License: Apache](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   ## Table of Contents 
   * [Description](#description)
@@ -14,19 +14,19 @@
   * [Questions](#questions)
 
   ## Installation
-  npm init-->npm install --> npm install inquirer
+  Clone the repository to your machine
   
   ## Usage
-  Run the following command at the root of your project and then answer the prompted questions: From the node.js command line
+  Run the following command in the command line and answer the questions Launch your preferred terminal, navigate to the root of your directory, run "node app", answer the questions as they are prompted, your readme file will be found in the root folder
 
   ## Contributions
-  [GitHub: none](https://github.com/none)
+  [GitHub: None](https://github.com/None)
   
   ## Test
-  no there is not
+  No tests at this time
 
-  ## Licensenod
-  This application is Apache licensed.
+  ## License
+  This application is Unlicense licensed.
 
   ## Questions
   Have any questions? Email me at roxanna.vaught@gmail.com

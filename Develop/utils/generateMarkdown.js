@@ -37,7 +37,7 @@ function generateMarkdown(info) {
   ${info.tests}
 
   ## License
-  This application is ${info.license} licensed.
+  Licensed under the ${info.license} license
 
   ## Questions
   Have any questions? Email me at ${info.email}
